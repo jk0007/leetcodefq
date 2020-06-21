@@ -31,7 +31,7 @@ int KmpSearch(char* s, char* p)
         return -1;  
 }  
 ```
-### KMP
+### next[]
 ```js
 void GetNext(char* p,int next[])  
 {  
